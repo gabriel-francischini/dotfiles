@@ -1,3 +1,7 @@
+# Ignore VSCode's extensions configs
+.vscode/*
+
+
 ## From ansible-create:
 ##
 .logs/*
